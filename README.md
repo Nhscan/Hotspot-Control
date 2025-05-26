@@ -1,4 +1,4 @@
-# Hotspot Control GUI - Wiki
+# Hotspot Control GUI
 
 ## Overview
 
