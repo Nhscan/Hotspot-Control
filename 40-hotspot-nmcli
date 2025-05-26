@@ -1,0 +1,1 @@
+craig ALL=(ALL) NOPASSWD: /usr/bin/nmcli

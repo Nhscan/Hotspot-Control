@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Hotspot Control
+Exec=/usr/bin/python3 /usr/local/bin/HotspotControl.py
+Icon=network-wireless-hotspot
+Terminal=false
+Type=Application
+Categories=Network;
